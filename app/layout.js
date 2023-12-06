@@ -4,8 +4,8 @@ import './globals.css'
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata = {
-  title: 'Watch Animal Movie',
-  description: 'Bhabhi 1 >>>> Bhabhi 2',
+  title: 'SASOne Movie Portal',
+  description: 'Watch Movies On Demand',
 }
 
 export default function RootLayout({ children }) {
